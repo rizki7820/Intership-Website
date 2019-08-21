@@ -22,7 +22,7 @@
                 </label>
                 <br>
             User Name :<br><br>      
-                <input type="email" name="email" required/><br>
+                <input type="email" name="username" required/><br>
             Password :<br><br> 
                 <input type="password" name="pass" required/><br><br>
             Cell Phone :<br><br>
