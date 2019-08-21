@@ -1,0 +1,20 @@
+#Login Form.html
+<html lang="en" dir="ltr">
+	<head>
+		<link href="https://fonts.googleapis.com/css?family=Hepta+Slab&display=swap" rel="stylesheet">
+		<meta charset="utf-8">
+		<title>Log In | TechnoParty</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+
+<form class="box" action="home.html" method="post">
+	<h1>Login</h1>
+	<input type="text" placeholder="Enter Username">
+	<input type="password" placeholder="Enter Password">
+	<input type="submit" name="" value="Log In">
+</form>
+
+
+	</body>
+</html>
